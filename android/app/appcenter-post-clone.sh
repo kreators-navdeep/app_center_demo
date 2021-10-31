@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 #Place this script in project/android/app/
 
 cd ..
